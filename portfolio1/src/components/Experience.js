@@ -74,7 +74,7 @@ import {
               {experience
                 .filter((exp) => exp.tags.includes(selected))
                 .map((exp) => (
-                  <Fade bottom>
+                  // <Fade bottom>
                     <Card key={exp.company} size="sm">
                       <CardHeader>
                         <Flex justifyContent="space-between">
@@ -119,7 +119,7 @@ import {
                         </HStack>
                       </CardFooter>
                     </Card>
-                  </Fade>
+                  // </Fade>
                 ))}
             </Stack>
           </Stack>
