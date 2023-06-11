@@ -14,10 +14,10 @@ import {
   export default function Contact({ color }) {
     const profile = ProfileArray();
     const linkedin = () => {
-      window.open(`${profile.linkedin}`, "_blank", "noreferrer,noopener");
+      window.open(`https://linkedin.com/in/alexendre-elie-044b72200`);
     };
     const github = () => {
-      window.open(`${profile.github}`, "_blank", "noreferrer,noopener");
+      window.open(`https://github.com/AlexEl972`);
     };
     const email = () => {
       window.open(`mailto:${profile.email}`, "_blank", "noreferrer,noopener");
