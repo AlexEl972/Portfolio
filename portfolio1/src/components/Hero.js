@@ -74,7 +74,7 @@ import {
                 }}
                 onClick={linkedin}
               >
-                Let's connect!
+                Se connecter!
               </Button>
               <Button
                 variant={"link"}
@@ -82,7 +82,7 @@ import {
                 size={"sm"}
                 onClick={scrollToContact}
               >
-                Contact Me
+                Me contacter
               </Button>
               <Box>
                 <Icon

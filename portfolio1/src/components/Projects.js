@@ -47,7 +47,7 @@ import {
                 <Text color={`${color}.400`} fontWeight={800}>
                   03
                 </Text>
-                <Text fontWeight={800}>Projects</Text>
+                <Text fontWeight={800}>Projets</Text>
               </HStack>
               <Divider orientation="horizontal" />
             </Stack>
@@ -95,7 +95,7 @@ import {
               ))}
             </Stack>
             <Text color={"gray.600"} fontSize={"xl"} px={4}>
-              Other Projects
+              Autres
             </Text>
             <Center px={4}>
               <ButtonGroup variant="outline">
@@ -103,7 +103,7 @@ import {
                   colorScheme={selected === "All" ? `${color}` : "gray"}
                   onClick={() => handleSelected("All")}
                 >
-                  All
+                  Tous
                 </Button>
                 {options.map((option) => (
                   <Button

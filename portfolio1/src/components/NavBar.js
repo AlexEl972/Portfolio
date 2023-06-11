@@ -99,13 +99,13 @@ import {
               {isLargerThanMD ? (
                 <>
                   <Button variant="ghost" onClick={scrollToAbout}>
-                    About
+                    A propos
                   </Button>
                   <Button variant="ghost" onClick={scrollToExperience}>
                     Experience
                   </Button>
                   <Button variant="ghost" onClick={scrollToProjects}>
-                    Projects
+                    Projets
                   </Button>
                   <Button variant="ghost" onClick={scrollToContact}>
                     Contact

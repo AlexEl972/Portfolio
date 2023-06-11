@@ -24,7 +24,7 @@ import {
                   <Text color={`${color}.400`} fontWeight={800}>
                     01
                   </Text>
-                  <Text fontWeight={800}>About</Text>
+                  <Text fontWeight={800}>A propos</Text>
                 </HStack>
                 <Divider orientation="horizontal" />
               </Stack>
