@@ -16,7 +16,7 @@ import {
     Link,
     Center,
   } from "@chakra-ui/react";
-  import { Fade } from "react-reveal";
+  // import { Fade } from "react-reveal";
   import { useState } from "react";
   import ProjectsArray from "./ProjectsArray";
   import OtherProjectsArray from "./OtherProjectsArray";
@@ -53,7 +53,7 @@ import {
             </Stack>
             <Stack px={4} spacing={4}>
               {projects.map((project) => (
-                <Fade bottom>
+                // <Fade bottom>
                   <Card
                     key={project.name}
                     direction={{
@@ -91,7 +91,7 @@ import {
                       </CardBody>
                     </Stack>
                   </Card>
-                </Fade>
+                // </Fade>
               ))}
             </Stack>
             <Text color={"gray.600"} fontSize={"xl"} px={4}>
@@ -125,7 +125,7 @@ import {
                   }
                 })
                 .map((other) => (
-                  <Fade bottom>
+                  // <Fade bottom>
                     <Card key={other.name}>
                       <Stack>
                         <CardBody align="left" h={[null, "40vh"]}>
@@ -160,7 +160,7 @@ import {
                         </CardBody>
                       </Stack>
                     </Card>
-                  </Fade>
+                  // </Fade>
                 ))}
             </SimpleGrid>
           </Stack>
