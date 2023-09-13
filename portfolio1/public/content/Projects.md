@@ -1,27 +1,28 @@
-## Puissance 4
+## Ecommerce
  
-- ![600x200](../puissance4.png)
+- ![600x200](../ecommerce.png)
 - Tags: Category 1
 - Badges:
-  - JS [yellow]
+  - Laravel [orange]
+  - React [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://github.com/AlexEl972/Ecommerce]
 
-## Maquette
+## My_events
  
-- ![600x200](../maquette.png)
+- ![600x200](../my_events.png)
 - Tags: Category 2
 - Badges:
-  - HTML [orange]
-  - CSS [pink]
+  - Laravel [orange]
+  - Vue [green]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://github.com/AlexEl972/My_events]
 
-## Rush Spotify
+## Previously_on
  
-- ![600x200](../spotify.png)
+- ![600x200](../previously_on.png)
 - Tags: Category 3
 - Badges:
   - React [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://github.com/AlexEl972/Rush_Spotify]
