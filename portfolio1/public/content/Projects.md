@@ -6,7 +6,7 @@
   - Laravel [orange]
   - React [blue]
 - Buttons:
-  - Link [https://github.com/AlexEl972/Ecommerce]
+  - Link [https://github.com/AlexEl972/Ecommerce_epitech]
 
 ## My_events
  
